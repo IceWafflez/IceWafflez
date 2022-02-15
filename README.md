@@ -1,8 +1,9 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Dino</h1>
-<h3 align="center">A Creative Developer From Norway</h3>
+<h1 align="center">Hi 👋, I'm Knut</h1>
+<!--
+<h3 align="center">A backend Developer From Norway</h3>
 
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IceWafflez&theme=dark&show_icons=true&locale=en&layout=compact" alt="" /></p>
 <!--
 **IceWafflez/IceWafflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
