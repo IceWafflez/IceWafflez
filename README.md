@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on Bakkacoin (priv rep)
 - 🌱 I’m currently learning Django
-- 📫 How to reach me: knutstrandskogen@gmail.com
-- 👨‍💻 All of my projects are available Here
+- 📫 How to reach me: ** knutstrandskogen@gmail.com **
+- 👨‍💻 All of my projects are available [Here](https://github.com/IceWafflez?tab=repositories)**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
