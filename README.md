@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IceWafflez&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working on Bakacoin
+- 🔭 I’m currently working on Bakkacoin (priv rep)
 - 🌱 I’m currently learning Django
-- - 📫 How to reach me: knutstrandskogen@gmail.com
+- 📫 How to reach me: knutstrandskogen@gmail.com
+- 👨‍💻 All of my projects are available Here
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
