@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Knut</h1>
 <!--
 <h3 align="center">A backend Developer From Norway</h3>
