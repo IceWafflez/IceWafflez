@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IceWafflez&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 🔭 I’m currently working on Bakkacoin (priv rep)
-- 🌱 I’m currently learning Django
-- 📫 How to reach me: ** knutstrandskogen@gmail.com **
+- 🌱 I’m currently learning **Django**
+- 📫 How to reach me: **knutstrandskogen@gmail.com**
 - 👨‍💻 All of my projects are available [Here](https://github.com/IceWafflez?tab=repositories)**
 <!--
 <h3 align="left">Connect with me:</h3>
